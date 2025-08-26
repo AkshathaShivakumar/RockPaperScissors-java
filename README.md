@@ -28,3 +28,13 @@ Welcome to the classic **Rock-Paper-Scissors** game built using Java! This simpl
 3. Compile the program:
    ```bash
    javac Rock_Paper_Scissor.java
+
+---
+
+## 🛠️ Reflections
+
+This project helped me:
+- Strengthen my understanding of loops and conditional logic.
+- Practice debugging and breaking down problems step by step.
+- Build confidence in tracking game state across rounds.
+- Document my learning clearly to support other beginners.
